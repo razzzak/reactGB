@@ -6,7 +6,7 @@ import "./App.css";
 
 function App() {
   const list = [1, 2, 3, 4, 5];
-  const [name, setName] = useState("Max");
+  const [name, setName] = useState("Ghost");
   const [mode, setMode] = useState(true);
 
   return (
